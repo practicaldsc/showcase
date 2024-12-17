@@ -12,7 +12,7 @@ nav_exclude: true
 EECS 398 at the <b><span style="background-color: #FFCB05; color: #00274C">University of Michigan</span></b>
 {: .no_toc }
 {: .fs-6 .fw-300 .mb-2 }
-a
+
 In Fall 2024, all students in _Practical Data Science_ were required to complete a Portfolio Homework, in which they performed an in-depth
 investigation into a dataset of their choosing and exercised all stages of the data science lifecycle, from exploratory data analysis
 to predictive model building. Students could choose one of three default datasets, or propose their own.
