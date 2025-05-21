@@ -1,8 +1,8 @@
 ---
 layout: minimal
-title: ✨ Fall 2024 Portfolio Homework Showcase
+title: ✨ Final Project Showcase
 description: >-
-  Links to Portfolio Homeworks from Fall 2024.
+  Links to Final Projects from Winter 2025 and Portfolio Homeworks from Fall 2024.
 nav_exclude: true
 ---
 
@@ -13,11 +13,9 @@ EECS 398 at the <b><span style="background-color: #FFCB05; color: #00274C">Unive
 {: .no_toc }
 {: .fs-6 .fw-300 .mb-2 }
 
-In Fall 2024, all students in _Practical Data Science_ were required to complete a Portfolio Homework, in which they performed an in-depth
-investigation into a dataset of their choosing and exercised all stages of the data science lifecycle, from exploratory data analysis
-to predictive model building. Students could choose one of three default datasets, or propose their own.
+All students in _Practical Data Science_ are required to complete a Final Project, in which they perform an in-depth investigation into a dataset of their choosing and exercise all stages of the data science lifecycle, from exploratory data analysis to predictive model building. Students could choose one of three default datasets, or propose their own.
 
-Below, you'll find the websites for each submission, organized by dataset choice.
+Below, you'll find the websites for each submission, organized by semester and dataset choice.
 
 ---
 
@@ -26,9 +24,203 @@ Below, you'll find the websites for each submission, organized by dataset choice
 
 ---
 
+## Winter 2025
+
+### Power Outages 🔋
+
+[**Forecasting Power Outage Duration with Predictive Models**](https://poweroutages.gideonshaked.com/)<br><small>Gideon Shaked</small> 
+
+[**How Long Will This Power Outage Last?**](https://graceliu15.github.io/power-outage-duration-analysis/)<br><small>Grace Liu</small> 
+
+[**Predicting the Reach of Power Outages**](https://tditmars.github.io/power-outage-analysis/)<br><small>Tyler Ditmars, Neha Pinnu</small> 
+
+[**GridLock: Predicting Power Outage Durations**](https://kiran7902.github.io/power-outage-analysis/)<br><small>Kiran Chandrasekaran</small> 
+
+[**Can we predict the cause category of a major power outage?**](https://avastravato.github.io/causes-of-power-outages/)<br><small>Ava Stravato</small> 
+
+[**Power Outage Prediction and Cause Analysis**](https://anvita-g.github.io/Power-Outage-Prediction/)<br><small>Anvita Gollu</small> 
+
+[**Power Outage Analysis for Life Saving Medicine**](https://taylornguyen82.github.io/power-outage-analysis-for-life-saving-medicine/)<br><small>Taylor Nguyen, Priya Shah</small> 
+
+[**Power Outages Analysis**]( https://harry-vieth.github.io/Power-Outages-Analysis/)<br><small>Harry Vieth</small> 
+
+[**Can we predict how a power outage occurred right when it happened?**](https://markmitu.github.io/power-outage-cause-prediction/)<br><small>Mark Mitu</small> 
+
+[**Can you predict power outage duration?**](https://dylanbabitch.github.io/power-outage-duration-analysis/)<br><small>Dylan Babitch</small> 
+
+[**What Effects How Long a Power Outage Lasts?**](https://marubio2.github.io/power-outage-analysis/)<br><small>Michael Rubio</small> 
+
+[**Shockingly Predictable: Forecasting Outage Duration**](https://rehring4.github.io/outage-duration-exploration/)<br><small>Lauren May, Julia Rehring</small> 
+
+[**Predicting cause of outage from Power Outage data in U.S.**](https://milesfichtner.github.io/power-outages/)<br><small>Miles Fichtner</small> 
+
+[**Predicting outage duration from the urban population and economic characteristics of the region?**](https://rongxuantian.github.io/power-outage-analysis/)<br><small>Rongxuan Tian</small> 
+
+[**Predicting Power Outage Duration in the U.S.**](https://spencelow.github.io/power-outages-analysis/)<br><small>Spence Lowery</small> 
+
+[**Power Outage Predictor**](https://arnavkhanna21.github.io/power-outage-predictor/)<br><small>Arnav Khanna, Govind Narayanan</small> 
+
+[**What Characteristics are Associated with High Power Outage Length?**](https://lisa-dai.github.io/power-outage-analysis/)<br><small>Lisa Dai</small> 
+
+[**Weather Causing Power Outages... How Long Will It Last?**](https://prestonjacks0n.github.io/power-outages-analysis/)<br><small>Preston Jackson</small> 
+
+[**# Analyzing U.S. Power Outages (2000-2016): Patterns, Impacts, and Insights**](https://siavasha.github.io/power-outage-report/)<br><small>Siavash Azar</small> 
+
+[**Can Power Outages Predict Your Monthly Electricity Bill?**](https://buqhek.github.io/power_outages_analysis/)<br><small>Hektor Buqaj</small> 
+
+[**Predicting Outage Duration the Moment It Starts**](https://biplavkharel.github.io/power-outage-analysis/)<br><small>Biplav Kharel</small> 
+
+### Recipes and Ratings 🍽️
+
+[**Predicting What Makes Food.com Recipes 5-Star Hits**](https://aj-das.github.io/aj-das-recipe-ratings-predictor/)<br><small>Arinjoy Das</small> 
+
+[**Quick Fix or Healthy Mix?**](https://sanyachawla26.github.io/Healthy-Recipe-Time-Prediction/)<br><small>Carolina Mondragon, Sanya Chawla</small> 
+
+[**I'm starving, how long is dinner gonna take?**](https://alabbasm.github.io/imhungry/)<br><small>Malik Alabbas</small> 
+
+[**Calorie Counter:  What Impacts a Recipe’s Calorie Count?**](https://j-nagar.github.io/recipes-and-ratings-analysis/ )<br><small>Jamila Nagarwala, Mehek Gupta</small> 
+
+[**Predicting Cooking Time Based on Different Recipe Features**](https://cselle366.github.io/recipie-min-prediction/)<br><small>Annice Chang and Courtney Selle </small> 
+
+[**Will People Like this Recipe?**](https://aidanmcki.github.io/recipe-review-analysis/)<br><small>Aidan McKiernan</small> 
+
+[**best minutes and steps for a recipe?**](https://keeeevinshen.github.io/foods-receipe-analysis/)<br><small>Hao Shen</small> 
+
+[**What determines the average rating of a recipe?**](https://ethannmui.github.io/avg-recipe-ratings-analysis/)<br><small>Ethan Mui, Daniel Yang</small> 
+
+[**Meals in Minutes: Predicting Prep Time with Nutritional Insights**](https://meghpar.github.io/recipe-prep-time-predictor/)<br><small>Meghana Paruchuri and Rishitha Talluri</small> 
+
+[**Behind the Bite: What Drives Calories in Recipes?**](https://anushac14.github.io/recipes-and-ratings-analysis/)<br><small>Anusha Chinthamaduka</small> 
+
+[**Protein Prediction Model🍗**](https://chef-bear.github.io/Recipe-Data-Set-Predictive-Model/ )<br><small>Kevin Zhang</small> 
+
+[**How does text analysis help identify high rated recipes?**](https://colin-czarnik.github.io/RecipeRatingsTextAnalysis/)<br><small>Colin Czarnik, Arthur Yang</small> 
+
+[**Can recipe nutrition and complexity predict a 5-star meal?**](\nhttps://log494.github.io/Recipe-Rating-Analysis/\n)<br><small>Logan McKeown</small> 
+
+[**What is the link between Cook Time and the number of ingredients and steps in a recipe?**](https://clairemkeegan.github.io/recipes-analysis/)<br><small>Claire Keegan</small> 
+
+[**How Many Calories Are Really in That Recipe?**](https://aayushsh06.github.io/recipe-analysis/)<br><small>Aayush Sharma</small> 
+
+[**What types of recipes tend to have higher average ratings? - Predict recipe rating**](https://ruixip.github.io/recipes-ratings-analysis/)<br><small>Lucy Piao</small> 
+
+[**Nutritional Insights: Predicting Calories in Recipes**](https://joyceku1020.github.io/recipe-nutrition-analysis/)<br><small>Joyce Ku</small> 
+
+[**What Makes a Recipe Shine?**](https://tingyix.github.io/Recipes-and-Ratings/)<br><small>Tingyi Xiao</small> 
+
+[**What Factors Influence Recipe Ratings?**](https://nileiur.github.io/recipes-analysis/)<br><small>Emily Lin</small> 
+
+[**Quick Bites or Slow Feasts? Analyzing Calories vs. Cooking Time**](https://amasiatu.github.io/CookingTime-vs-Calories-Analysis/)<br><small>Chinyere Amasiatu</small> 
+
+[**How Long Will This Take?**](https://maddiecoe.github.io/recipes-and-ratings-analysis/)<br><small>Maddie Coe</small> 
+
+[**Is it Worth Making Long Recipes?**](https://dph4m.github.io/recipe_analysis_project/\n)<br><small>Dylan Pham, Andrew Lezaja</small> 
+
+[**# What is the relationship between recipe characteristics (e.g prep-time, ingredients, calories) and user-given ratings?**](https://svishnus.github.io/blog/recipe-and-review-data-analysis/)<br><small>Sundara Vishnu Satish</small> 
+
+[**What truly defines a dish?**](https://alyssrod.github.io/recipes-and-ratings-analysis/)<br><small>Alyssa Rodriguez</small> 
+
+[**What Do We Think of the Recipes?**](https://tawseef-rahman.github.io/recipes-data-analysis/)<br><small>Tawseef Rahman</small> 
+
+[**Masala to Metrics**](https://anjikajain1.github.io/masala-to-metrics/)<br><small>Anjika Jain, Riya Bhivare</small> 
+
+[**Building a Cook's Intuition for Time**](https://mchen7878.github.io/recipes-analysis/)<br><small>Michael Chen, Edison Zhou</small> 
+
+[**What will my recipe be rated on food.com?**](https://dhruvk19.github.io/recipe-analysis/)<br><small>Dhruv Kapur, Manan Shah</small> 
+
+[**Bite-Sized Insights: Exploring What Makes Recipes Shine**](https://emmalinhart.github.io/recipes-rating-analysis/)<br><small>Emma Linhart</small> 
+
+[**5 Star Analysis of Recipe Ratings**](https://achyudtv.github.io/recipe-analysis/)<br><small>Achyudt Narayanan Venkat</small> 
+
+[**How-does-nutrition-influence-food-ratings?**](https://ehsankabeer.github.io/How-nutrition-influences-food-ratings-byEhsan/)<br><small>Ehsan Kabeer</small> 
+
+[**Exploring Recipes dataset via Random Forest**](https://xiangzhi-jiang.github.io/eecs398_finalproj_wn25/)<br><small>Xiangzhi Jiang</small> 
+
+[**High or Low? Predict Recipes Rating with Complexity & Nutritional Health Information**](https://marinmairnmarin.github.io/)<br><small>Tianxin (Jessica) Li, Zhicong Chen</small> 
+
+### League of Legends ⌨️
+
+[**Forecasting Victory: 2024 League of Legends Worlds Matches Predictions**](https://cjhjw.github.io/EECS398-Final-Project/)<br><small>Jiahao Cheng</small> 
+
+[**Which Arcane Sister is the Best?**](https://ryw27.github.io/pds-final-proj/)<br><small>Eric Teng, Ryan Wei</small> 
+
+[**Can Early Leads Guarantee Wins? A Snowballing Analysis in League of Legends**](https://adbox53.github.io/league-of-legends-snowballing-analysis/)<br><small>Adam Boxwalla</small> 
+
+[**Does laning-phase creep-score(CS) really predict winning outcome over kills?**](https://mikesteroonie.github.io/league-of-legends-cs-analysis/)<br><small>Hyun(Michael) Kim</small> 
+
+[**Checkpoint Champion – Predicting Winners at 25**](https://mrtuge123.github.io/League_of_Legends_Analysis/)<br><small>Yunjong (Kevin) Na, Xingzhi Cui</small> 
+
+[**Does an Early Lead Decide the Game?**](https://thamimhussain.github.io/league-of-legends-analysis/)<br><small>Thamim Hussain</small> 
+
+[**League of Legends Role Analysis**](https://twayment.github.io/league-of-legends-analysis/)<br><small>Trey Wayment</small> 
+
+[**League of Legends: the affect of Team Composition on Win Rate**](https://cram678.github.io/league-of-legends-data-analysis/)<br><small>Marc Rosenberg</small> 
+
+[**Can we predict the length of a League of Legends game?**](https://janajar.github.io/league-of-legends-predictor/)<br><small>Jawad Najar, Ali Boussi</small> 
+
+[**Analyzing Player Positions in League of Legends**](https://jegg-dev.github.io/league-analysis/)<br><small>Jackson Eggerd</small> 
+
+[**How does first blood impact the chances of winning a League of Legends match?**](https://aprbhatt.github.io/League-of-Legends-data-analysis/)<br><small>Aditya Bhatt</small> 
+
+[**Know Your Role: Predicting League of Legends Roles from Player Stats**](https://vanessly.github.io/league-of-legends-analysis/)<br><small>Vinh Tran, CC Ly</small> 
+
+[**Can Time, Money, and Experience Determine Wins in League of Legends?**](https://novabro.github.io/League-of-Legends-Investigation/)<br><small>William Zheng</small> 
+
+[**League of Legends Early Game Win Rate Prediction**](https://helkd27.github.io/league-of-legends-analysis/)<br><small>Daniel Ried</small> 
+
+[**Do you want to go pro in League of Legends? Focus on these Features.**](https://amyliiu.github.io/league-of-legends-analysis/)<br><small>Amy Liu, Priya Gutta</small> 
+
+[**League of Legends Stat Difference Implications**](https://enamestry.github.io/lol_esports_analysis/)<br><small>Ena Mestry</small> 
+
+[**Dominating League**](https://lemonannn.github.io/lol_analysis/)<br><small>Jack Kruger</small> 
+
+[**Predicting Match Results based on Team-Aggregate Game State at 20 Minutes**](https://wenjia-lu.github.io/league-win-analysis)<br><small>Wenjia Lu, Anthony Sun</small> 
+
+[**League Of Legends FF at 15?**](https://xuz24.github.io/league-of-legends-analysis/)<br><small>Zijie Xu</small> 
+
+[**Are League Games Decided at 20 Minutes, Even in Pro Play?**](https://vshen201.github.io/league-20mins-analysis/)<br><small>Vincent Shen</small> 
+
+[**Do Junglers Really Deserve the Blame?**](https://toumayoneyama.github.io/LoL_junglers_performance_analysis/)<br><small>Touma Yoneyama</small> 
 
 
-## Power Outages 🔋 
+### Custom Dataset 🎨
+
+[**Train Slow to Race Fast**](https://jding490.github.io/running-heartrate-analysis/)<br><small>Jonathan Ding</small> 
+
+[**Predicting Shot Success in Professional Basketball**](https://lightningjw.github.io/bsn-pbp-analysis/)<br><small>Justin Wong</small> 
+
+[**A Nation's Happiness - Quantified via Life Expectancy**](https://abby3459.github.io/global_life_expectancy_analysis/)<br><small>Abby Schultz, Mariana Ceballos</small> 
+
+[**Can Data Win Your Fantasy League?**](https://nap0814.github.io/Fantasy-Football-Analysis_Website/)<br><small>Vidit Tiwari, Navdeep Sirigiri</small> 
+
+[**Who Will Win? A Data-Driven Analysis of ATP Tennis Match Prediction**](https://mmtekin.github.io/atp-tennis-predictor-analysis/)<br><small>Mehmet Malik Tekin</small> 
+
+[**Glass Forecast: Predicting NBA Rebound Totals by Game**](https://micrubin1.github.io/nba-rebound-prediction-model/)<br><small>Micah Rubin</small> 
+
+[**How can Airbnb most accurately predict the price of a newly added unit?**](https://wkduggan-umich.github.io/airbnb-price-analysis/)<br><small>Will Duggan</small> 
+
+[**Empire Estimator: Predicting NYC Airbnb Rates**](https://nyc-airbnb-predictor.streamlit.app)<br><small>Emily Tran</small> 
+
+[**Predicting Democratic Vote Share in Michigan Municipalities**](https://jthsmith.github.io/PredictingDemVoteShare/)<br><small>Justin Smith</small> 
+
+[**A Data-Driven Look at VC Fundraising**](https://kuhoobairwal.github.io/vc-fundraising/)<br><small>Kuhoo Bairwal</small> 
+
+[**Who is the ATP Superstar?**](https://pvarshh.github.io/tennis-prediction/)<br><small>Jeremy Moon, Pranav Varshney</small> 
+
+[**Job Loss Metrics in the Tech Industry**](https://jon-kert.github.io/Tech_Industry_Job_Loss/)<br><small>Jonathan Kertawidjaja, Philip Hadiwidjaja</small> 
+
+[**Shotgun vs. Under Center: An NFL Play-by-Play Analysis**](https://andydrewwm.github.io/nfl-play-analysis/)<br><small>Andrew Wilks-Millard</small> 
+
+[**Boston Fare-casting**](https://kfukutom.github.io/boston-farecast/)<br><small>Ken Fukutomi</small> 
+
+[**What is the projected delay of your Delta flight?**](https://github.com/lukjulia/delta-flights-analysis\nhttps://lukjulia.github.io/delta-flights-analysis/)<br><small>Julia Klepko</small> 
+
+---
+
+## Fall 2024
+
+
+### Power Outages 🔋 
  
 
 
@@ -131,11 +323,8 @@ Below, you'll find the websites for each submission, organized by dataset choice
 [**Which factors that influence the cost of a power outage?**](https://will51mps0n.github.io/power_outages_analysis/)<br><small>Adam Simpson</small>
 
 
---- 
 
-
-
-## Recipes and Ratings 🍽️ 
+### Recipes and Ratings 🍽️ 
  
 
 
@@ -334,11 +523,8 @@ Below, you'll find the websites for each submission, organized by dataset choice
 [**food-recipe-insights**](https://yjennyli.github.io/food-recipe-insights/)<br><small>Jennie Li</small>
 
 
---- 
 
-
-
-## League of Legends ⌨️ 
+### League of Legends ⌨️ 
  
 
 
@@ -397,11 +583,8 @@ Below, you'll find the websites for each submission, organized by dataset choice
 [**Do Junglers Matter?**](https://github.com/barineer/jungle_play_of_game)<br><small>Neeran Bari</small>
 
 
---- 
 
-
-
-## Custom Dataset 🎨 
+### Custom Dataset 🎨 
  
 
 
@@ -442,7 +625,3 @@ Below, you'll find the websites for each submission, organized by dataset choice
 
 
 [**Football Stats**](https://alextrommer.github.io/FootballStats/)<br><small>Alex Trommer</small>
-
-
---- 
-
